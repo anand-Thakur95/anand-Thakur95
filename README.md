@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:                                                          I'm Anand Thakur
 MERN Stack Developer | React | Node | MongoDB<br>Passionate about building modern, scalable full-stack web applications with clean UI, secure authentication, and real-world functionality. Actively seeking fresher opportunities to learn and grow.
 
 
